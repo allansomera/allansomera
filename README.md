@@ -38,9 +38,10 @@ me.wassup()
 
 <!--  -->
 
-## Recent Project (TimeTripleDime):
+## HIGHLIGHT Projects:
 
 [![Readme Card][recent-proj]][recent-proj-url]
+[![Readme Card2][ea-proj]][ea-proj-url]
 
 ## FRONTEND frameworks and libraries
 
@@ -110,6 +111,8 @@ Here are some ideas to get you started:
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=allansomera&theme=github-dark-blue
 [recent-proj]: https://github-readme-stats.vercel.app/api/pin/?username=allansomera&theme=github_dark&repo=allan-somera-capstone-time3dime
 [recent-proj-url]: https://github.com/allansomera/allan-somera-capstone-time3dime
+[ea-proj]: https://github-readme-stats.vercel.app/api/pin/?username=allansomera&theme=github_dark&repo=team-badassets-industry-project-EA
+[ea-proj-url]: https://github.com/allansomera/team-badassets-industry-project-EA
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/allansomera
 [index.html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
