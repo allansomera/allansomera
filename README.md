@@ -41,6 +41,7 @@ me.wassup()
 ## HIGHLIGHT Projects:
 
 [![Readme Card][recent-proj]][recent-proj-url]
+<br/>
 [![Readme Card2][ea-proj]][ea-proj-url]
 
 ## FRONTEND frameworks and libraries
