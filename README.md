@@ -82,6 +82,7 @@ me.wassup()
 [![MARKDOWN][markdown]][markdown-url]
 [![TMUX][tmux]][tmux-url]
 [![SHELL-SCRIPT][shell-script]][shell-script-url]
+[![BASH][bash]][bash-url]
 
 ## OS
 
@@ -151,6 +152,8 @@ Here are some ideas to get you started:
 [markdown-url]: https://www.markdownguide.org/
 [shell-script]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 [shell-script-url]: https://www.shellscript.sh/
+[bash]: https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
+[bash-url]: https://www.gnu.org/software/bash/
 [git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [git-url]: https://git-scm.com/
 [tmux]: https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white
