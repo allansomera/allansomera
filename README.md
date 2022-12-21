@@ -4,10 +4,30 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Welcome to my github page.
-I'm a software engineer aiming to be a full-stack developer. I'm also a
-cybersecurity enthusiast. Hacking is fun and you know it. Learn to hack by
-hacking the world XD
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class Software_engineer:
+
+    def __init__(self):
+        self.name = "Allan Somera"
+        self.role = ["Software Engineer", "Full-stack developer"]
+        self.language_spoken = ["en_US"]
+
+    def wassup(self):
+        print(
+        """
+        Welcome to my github page.
+        I'm a software engineer aiming to be a full-stack developer. I'm also a
+        cybersecurity enthusiast. Hacking is fun and you know it. Learn to hack by
+        hacking the world XD
+        """
+        )
+
+me = Software_engineer()
+me.wassup()
+```
 
 ## Github Stats
 
