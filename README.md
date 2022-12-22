@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=allansomera&theme=github_dark&show_icons=true&count_private=true&hide=stars,issues
 [github-url]: https://github.com/allansomera
-[github-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=allansomera&count_private=true&theme=github_dark&langs_count=10&layout=compact
+[github-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=allansomera&count_private=true&theme=github_dark&langs_count=9&layout=compact
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=allansomera&theme=github-dark-blue
 [recent-proj]: https://github-readme-stats.vercel.app/api/pin/?username=allansomera&theme=github_dark&repo=allan-somera-capstone-time3dime
 [recent-proj-url]: https://github.com/allansomera/allan-somera-capstone-time3dime
